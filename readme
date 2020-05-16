@@ -1,1 +1,2 @@
-Start running this project from main.php
+Initially, import the database(FreshBasket_DB.sql), in any of the server(XAMPP or WAMPP).
+Then, Start running this project from main.php
